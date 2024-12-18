@@ -30,6 +30,11 @@ ellipse(x,y+20,55,55);
 fill(46,46,41);
 ellipse(x+50,y-50,19,19);
 ellipse(x-50,y-50,19,19);
+
+
+x=mouseX
+y=mouseY
+
 }
 
 
